@@ -1,0 +1,9 @@
+ARC Inductions 2026 – Embedded State Machine
+
+Tinkercad Simulation: https://www.tinkercad.com/things/lDAvgtalZc0-darshan-kaspa-2026a7ps0083h?sharecode=RpFT6WYAE7fnmt5OJuAUL805AJGJ0X1LwmYRStEsFFw
+
+A Master-Slave I2C system using two Arduino Unos to manage environmental sensor polling, IR remote inputs, and LCD telemetry.
+
+Features automatic safety responses including an emergency servo vent for high temperatures and a piezo buzzer alarm for multi-fault conditions.
+
+Real-time state priority engine handling standby, telemetry monitoring, gas leaks, blackouts, and emergency resets.
